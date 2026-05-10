@@ -57,7 +57,7 @@ specialization:
   - Intelligent Automation
 
 currently:
-  learning: Microsoft Azure + System Design
+  learning: Microsoft Azure + AI Agents
   building: End-to-End AI Systems
   exploring: LLMs + RAG Pipelines
 ````
