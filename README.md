@@ -147,29 +147,11 @@ CNN-based crop disease classification system trained on 50K+ images with product
 [![Repo](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github)](https://github.com/Bobby-111/CropCare-AI)
 
 ---
+# 🧪 Research & Engineering Work
+
 ## 🚑 Smart Ambulance Traffic Control
+IEEE award-winning IoT-based emergency traffic prioritization system using ESP32, GPS, and Firebase.
 
-IoT-powered emergency traffic prioritization system using ESP32, GPS, and Firebase.
-
-### Achievement
-
-🏆 IEEE Best Paper Award — National Level Symposium
-
-### Stack
-
-`ESP32` `Firebase` `IoT` `GPS`
-
----
-
-## 💰 Financial NER Platform
-
-Designed NLP pipelines for extracting structured entities from unstructured financial documents during Infosys Springboard Internship.
-
-### Stack
-
-`Python` `spaCy` `NLP` `Machine Learning`
-
----
 
 # 💼 Experience
 
